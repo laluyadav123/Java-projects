@@ -1,0 +1,27 @@
+package com.oppsdemo;
+
+public class InheritanceDemo {
+
+	public static void main(String[] args) {
+		
+		ClassB b = new ClassB();
+		b.method1();
+		b.method2();
+		
+		
+		
+
+	}
+
+}
+/*
+   base class /parent class/super class 
+   
+   sub class/child class/ extended class 
+   
+   single inheritance
+   
+       classA
+       		 extends	
+       class B
+ */

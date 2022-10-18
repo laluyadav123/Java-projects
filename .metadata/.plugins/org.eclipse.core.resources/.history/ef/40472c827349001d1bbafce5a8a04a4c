@@ -1,0 +1,12 @@
+package com.oppsdemo;
+
+public class ClassB extends ClassA implements Bonus {
+
+	public ClassB(int salary) {
+		super(salary);
+	}
+	
+	
+	 
+
+}

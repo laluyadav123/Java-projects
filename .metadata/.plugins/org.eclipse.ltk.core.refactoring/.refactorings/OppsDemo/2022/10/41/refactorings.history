@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Abstraction&apos; to &apos;com.Interface&apos;&#x0A;- Original project: &apos;Inheritance&apos;&#x0A;- Original element: &apos;Inheritance/src/com.Abstraction&apos;&#x0A;- Renamed element: &apos;Inheritance/src/com.Interface&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Abstraction&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Abstraction" name="com.Interface" qualified="false" references="true" stamp="1665039198428" textual="false" version="1.0"/>
+</session>

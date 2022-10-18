@@ -1,0 +1,10 @@
+package com.Encapsulation;
+
+public class ClassA extends Encapsulate{
+
+	public ClassA(int id, String name) {
+		super(id, name);
+		// TODO Auto-generated constructor stub
+	}
+
+}

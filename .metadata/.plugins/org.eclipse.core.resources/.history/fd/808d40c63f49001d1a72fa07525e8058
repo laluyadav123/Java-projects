@@ -1,0 +1,48 @@
+package com.oppsdemo;
+
+public class Extra {
+
+	public class ClassA { // parent class
+
+		public void method1() {
+
+			System.out.println("inside parent class");
+		}
+	}
+	-----------------------------------------------------
+
+	public class ClassB extends ClassA {  
+
+		public void method2() {
+			System.out.println("inside child class");
+
+		}
+
+	}
+	------------------------------------------------------
+	
+	public class ClassC extends ClassA extends CalassB {
+		
+		 public void method3() {
+				
+				System.out.println("inside classc child  class");
+			}
+		 ----------------------------------------------------------
+		 
+		 public static void main(String[] args) {
+				
+				ClassC c = new ClassC();
+				c.method3();
+				
+				
+				
+				ClassB b = new ClassB();
+				b.method2();
+			
+			}
+
+
+		}
+
+
+}

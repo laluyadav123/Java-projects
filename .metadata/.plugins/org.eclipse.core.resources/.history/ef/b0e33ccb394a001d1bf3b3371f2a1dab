@@ -1,0 +1,13 @@
+package com.abstraction;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		
+//		Sound s =new Sound();
+//		s.lalit();
+//		System.out.println(s);
+	}
+
+}

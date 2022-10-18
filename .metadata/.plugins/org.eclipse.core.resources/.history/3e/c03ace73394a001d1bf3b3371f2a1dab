@@ -1,0 +1,15 @@
+package com.pollymorphism;
+
+public class Eat {
+	
+	void lion(int s,int y) {
+		System.out.println("lalit ");
+	}
+
+	void lion(int x) {
+		
+		System.out.println("suar");
+	
+		
+	}
+}

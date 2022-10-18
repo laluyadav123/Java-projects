@@ -1,0 +1,10 @@
+package com.abstraction;
+
+public class AnimalSound {
+	
+	void lalit() {
+		
+		
+	}
+
+}

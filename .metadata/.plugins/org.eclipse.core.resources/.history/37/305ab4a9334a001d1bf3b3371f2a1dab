@@ -1,0 +1,12 @@
+package com.abstraction;
+
+public abstract class AnimalSound {
+	
+	void lalit() {
+		
+		System.out.println("Lalit is kutta");
+		
+		
+	}
+
+}

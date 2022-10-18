@@ -1,0 +1,16 @@
+package com.pollymorphism;
+
+public class EatMain {
+
+	public static void main(String[] args) {
+		
+		Overrriden o = new Overrriden();
+		o.cat();
+		
+//		Eat e = new Eat();
+//		e.lion(12,10);
+//		e.lion();
+
+	}
+
+}

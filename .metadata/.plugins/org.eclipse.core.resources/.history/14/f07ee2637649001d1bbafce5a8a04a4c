@@ -1,0 +1,8 @@
+package com.Encapsulation;
+
+public class Encapsulate {
+	
+	int id;
+	String name;
+
+}

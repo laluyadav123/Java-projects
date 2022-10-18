@@ -1,0 +1,9 @@
+package com.oppsdemo;
+
+public  class ClassA {
+	
+	public void method1() {
+		
+		System.out.println("inside parent class");
+	}
+

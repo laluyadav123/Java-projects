@@ -1,0 +1,21 @@
+package com.oppsdemo;
+
+public class ClassC implements Bonus {
+	
+	
+	int salary;
+
+	public ClassC(int salary) {
+		
+		this.salary = salary;
+	}
+
+	@Override
+	public String toString() {
+		return "ClassC [salary=" + salary + "]";
+	}
+	
+	
+	
+ 
+}

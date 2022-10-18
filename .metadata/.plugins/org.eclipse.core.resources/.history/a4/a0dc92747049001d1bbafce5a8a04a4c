@@ -1,0 +1,10 @@
+package com.oppsdemo;
+
+public class ClassB extends ClassA {
+	
+	 public void method2() {
+		 System.out.println("inside child class");
+		 
+	 }
+
+}

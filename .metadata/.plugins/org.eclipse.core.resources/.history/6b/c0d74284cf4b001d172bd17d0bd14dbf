@@ -1,0 +1,35 @@
+package com.swapping;
+
+public class Swapping {
+	
+	private int a;
+	private int b;
+	private int temp=0;
+	
+	public Swapping(int a, int b,int temp) {
+		super();
+		this.a = a;
+		this.b = b;
+		this.temp=temp;
+	}
+	
+	
+	
+	
+	public int swap() {
+		
+		a=a+b;
+		b=a-b;
+		a=a-b;	
+		return a;
+	}
+	
+	public int swaping() {
+		
+		
+		return b;
+		
+	}
+	
+
+}

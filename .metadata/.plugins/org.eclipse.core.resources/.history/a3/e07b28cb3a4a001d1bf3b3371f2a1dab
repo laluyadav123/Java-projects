@@ -1,0 +1,9 @@
+package com.pollymorphism;
+
+public class Overrriden {
+
+	public void cat() {
+		 
+		System.out.println("inside  overriden");
+	}
+}
